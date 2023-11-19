@@ -54,15 +54,12 @@ color: var(--OCEAN, #404BBF);
 color: var(--OCEAN, #404BBF);
 }
 
- {
+ .text {
  color: var(--SLATE, #434455);
  font-size: 16px;
- font-style: normal;
- font-family: Roboto Regular;
- font-weight: 400;
- line-height: 24px;
- letter-spacing: 0.32px;
- list-style-type: none;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+
 }
 
 
